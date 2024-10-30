@@ -6,6 +6,8 @@ I'm Prasaath, a recent master's graduate from the University of Hertfordshire. I
 
 I am fairly new to Git Hub and the programming world. However, I have been spending a lot of time learning to use R for data analysis and visualisation. During this time, I recreated my [Master's thesis](https://prasaath-sastha.github.io/MSc-Project/) in an accessible quarto book format and even managed to create a [portfolio](https://prasaath-sastha.github.io/) website and hosted them on gh pages. 
 
+[![roadmap.sh](https://roadmap.sh/card/tall/67220ac431d65c235da1ec55?variant=dark)](https://roadmap.sh)
+
 Projects I hope to work on are:
 
 - 📦 R packages
